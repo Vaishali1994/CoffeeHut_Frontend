@@ -1,1 +1,2 @@
 "#Discount"
+New entry added
